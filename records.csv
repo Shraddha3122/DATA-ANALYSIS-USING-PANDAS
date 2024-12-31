@@ -1,0 +1,11 @@
+EmployeeID,FirstName,LastName,Email,Department,Salary
+1,John,Doe,john.doe@example.com,Engineering,75000
+2,Jane,Smith,jane.smith@example.com,Marketing,65000
+3,Bob,Johnson,bob.johnson@example.com,Sales,55000
+4,Alice,Williams,alice.williams@example.com,HR,60000
+5,Michael,Brown,michael.brown@example.com,Engineering,80000
+6,Emily,Davis,emily.davis@example.com,Marketing,62000
+7,David,Garcia,david.garcia@example.com,Sales,58000
+8,Sarah,Martinez,sarah.martinez@example.com,HR,62000
+9,James,Hernandez,james.hernandez@example.com,Engineering,77000
+10,Laura,Lopez,laura.lopez@example.com,Marketing,64000
